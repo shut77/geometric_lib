@@ -1,3 +1,4 @@
+(это просто учебная лаба)
 # Math formulas
 ## Area
 - Circle: S = πR²
